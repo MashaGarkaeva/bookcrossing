@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_main_text">43sp</dimen>
+    <dimen name="place_mtext_top">80dp</dimen>
+    <dimen name="place_mtext_left">12dp</dimen>
+
+    <dimen name="place_button_top">300dp</dimen>
+    <dimen name="place_button_left">150dp</dimen>
+    <dimen name="size_button_w">100dp</dimen>
+    <dimen name="size_button_h">50dp</dimen>
+
+    <dimen name="size_textLih">20sp</dimen>
+    <dimen name="place_textL_top">10dp</dimen>
+    <dimen name="place_textL_left">9dp</dimen>
+
+    <dimen name="place_Lih_top">110dp</dimen>
+    <dimen name="place_Lih_left">200dp</dimen>
+
+    <dimen name="place_avtoriz_top">100dp</dimen>
+    <dimen name="place_avtoriz_left">70dp</dimen>
+
+    <dimen name="size_login">20sp</dimen>
+    <dimen name="place_login_top">0dp</dimen>
+    <dimen name="place_login_left">160dp</dimen>
+    <dimen name="place_text_login_top">10dp</dimen>
+    <dimen name="place_text_login_left">14dp</dimen>
+
+    <dimen name="place_password_top">50dp</dimen>
+    <dimen name="place_password_left">170dp</dimen>
+    <dimen name="place_text_password_top">60dp</dimen>
+    <dimen name="place_text_password_left">14dp</dimen>
+
+    <dimen name="button_registr_top">20dp</dimen>
+    <dimen name="button_registr_left">180dp</dimen>
+
+    <dimen name="btn_see_place_book_top">650dp</dimen>
+
+    <dimen name="place_reg_fio_top">100dp</dimen>
+    <dimen name="place_reg_fio_left">150sp</dimen>
+    <dimen name="place_text_reg_fio_top">110dp</dimen>
+
+    <dimen name="btn_reg_enter_top">350dp</dimen>
+
+    <dimen name="icon_top">10dp</dimen>
+    <dimen name="icon_left">320dp</dimen>
+    <dimen name="icon_size">80dp</dimen>
+
+    <dimen name="add_book_size">40sp</dimen>
+    <dimen name="add_book_top">10dp</dimen>
+    <dimen name="add_book_left">20dp</dimen>
+
+    <dimen name="size_text_enter_name_book">18sp</dimen>
+    <dimen name="name_book_top">10dp</dimen>
+    <dimen name="name_book_left">210dp</dimen>
+    <dimen name="auhtor_book_top">50dp</dimen>
+    <dimen name="auhtor_book_top_enter">40dp</dimen>
+    <dimen name="auhtor_book_left">190dp</dimen>
+
+    <dimen name="button_nazad_top">370dp</dimen>
+    <dimen name="button_nazad_left">125dp</dimen>
+</resources>
